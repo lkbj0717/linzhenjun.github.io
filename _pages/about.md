@@ -29,7 +29,7 @@ I have won the First Class Scholarship of WHU 2 times (5% school-wide), the HUAN
 
 <!-- My curriculum vitae can be downloaded [here (in English)](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/Boheng_Li_s_CV.pdf).  -->
 
-# 🔥 News
+<!-- # 🔥 News
 - *2024.02*: One paper is accepted by CVPR 2024.
 - *2024.02*: Our team won the Outstanding Prize of Innova University Student Innovation Achievement Award.
 - *2024.01*: Invited as a reviewer for ACM MM 2024.
@@ -37,11 +37,11 @@ I have won the First Class Scholarship of WHU 2 times (5% school-wide), the HUAN
 - *2023.10*: Awarded with National Scholarship 2023.
 - *2023.08*: Invited as a reviewer by ACM TOMM.
 - *2023.08*: One paper is accepted by ICCVW UnCV 2023.
-- *2023.07*: One paper is accepted by ACM MM 2023.
-- *2023.07*: One paper is accepted by ICCV 2023.
-- *2023.06*: Invited as a reviewer by ACM MM.
-- *2023.02*: I was awarded the Huawei Scholarship (54 candidates per year in WHU) by Wuhan University & Huawei Technologies Co., Ltd.
-- *2022.11*: Our team "AntiE" won the **Gold Reward** (national highest award, award rate less than 0.01%) of the 8th China International College Students 'Internet+' Innovation and Entrepreneurship Competition (Chinese: 中国国际“互联网+”大学生创新创业大赛), it's a great honor! Congratulations to my teammates Jiahao Zhou, Tingyu Luo, Xinyue Zhang, Sixing Lin, Tong Zong, Zhuoyuan Wu, Chang Lu, Jie Xiao, Yiqing Li, Hanrui Yao, Weijing Li, and Fan Wang. Thanks to our team's former members Xin Cao and Chong Hu, our advisers Qingxiang Meng, Xiaoliang Meng, Run Wang and Linqing Liu, thanks to Chufeng Wu, Prof. Jun Qian, Prof. Huying Zhang, Mr. Qilin Sun who helped us a lot! Thanks to my mom and dad, thanks to everyone!
+- *2023.07*: One paper is accepted by ACM MM 2023. -->
+<!-- - *2023.07*: One paper is accepted by ICCV 2023. -->
+<!-- - *2023.06*: Invited as a reviewer by ACM MM. -->
+<!-- - *2023.02*: I was awarded the Huawei Scholarship (54 candidates per year in WHU) by Wuhan University & Huawei Technologies Co., Ltd. -->
+<!-- - *2022.11*: Our team "AntiE" won the **Gold Reward** (national highest award, award rate less than 0.01%) of the 8th China International College Students 'Internet+' Innovation and Entrepreneurship Competition (Chinese: 中国国际“互联网+”大学生创新创业大赛), it's a great honor! Congratulations to my teammates Jiahao Zhou, Tingyu Luo, Xinyue Zhang, Sixing Lin, Tong Zong, Zhuoyuan Wu, Chang Lu, Jie Xiao, Yiqing Li, Hanrui Yao, Weijing Li, and Fan Wang. Thanks to our team's former members Xin Cao and Chong Hu, our advisers Qingxiang Meng, Xiaoliang Meng, Run Wang and Linqing Liu, thanks to Chufeng Wu, Prof. Jun Qian, Prof. Huying Zhang, Mr. Qilin Sun who helped us a lot! Thanks to my mom and dad, thanks to everyone! -->
 <!-- - *2022.10*: Our team "AntiE" enters the national finals of the 8th China International College Students "Internet+" Innovation and Entrepreneurship Competition (Chinese: 中国国际“互联网+”大学生创新创业大赛), see you in Chongqing! -->
 - *2022.10*: I won the National Scholarship (0.2% national-wide), and was selected the Pacemaker to Merit Student of WHU (Award Rate: 60/59774=0.1%).
 <!-- - *2022.10*: I ranked 1/157 in the 2022 Comprehensive Assessment of the SCSE with a full score in practice and innovation ability (F3). My total score surpasses the second place by 11%. -->
@@ -72,9 +72,21 @@ Tingyu Luo, **Boheng Li**, Jiahao Zhou, Qingxiang Meng
 *The 29th International Conference on Geoinformatics (CPGIS), 2022* -->
 
 <!-- ## 🤖️ AI Security, Privacy & Intellectual Property (IP) Protection -->
+- [Towards Reliable Verification of Unauthorized Data Usage in Personalized Text-to-Image Diffusion Models]()   
+**Boheng Li**, Yanhao Wei, Yankai Fu, Zhenting Wang, Yiming Li, Jie Zhang, Run Wang, Tianwei Zhang
+*The IEEE Symposium on Security and Privacy (S&P), 2025*
+
+- [Is Difficulty Calibration All We Need? Towards More Practical Membership Inference Attacks]()   
+Yu He$^\dagger$, **Boheng Li$^\dagger$**, Yao Wang, Mengda Yang, Juan Wang, Hongxin Hu, and Xingyu Zhao
+*The ACM Conference on Computer and Communications Security (CCS), 2024*
+
+- [Purifying Quantization-conditioned Backdoors via Layer-wise Activation Correction with Distribution Approximation]()   
+**Boheng Li$^\dagger$**, Yishuo Cai$^\dagger$, Jisong Cai, Yiming Li, Han Qiu, Run Wang, Tianwei Zhang
+*The International Conference on Machine Learning (ICML), 2024*
+
 - [Nearest Is Not Dearest: Towards Practical Defense against Quantization-conditioned Backdoor Attacks]()   
 **Boheng Li**, Yishuo Cai, Haowei Li, Feng Xue, Zhifeng Li, Yiming Li   
-*The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024 (To Appear)*
+*The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024*
 
 - [TraceEvader: Making DeepFakes More Untraceable via Evading the Forgery Model Attribution]()   
 Mengjie Wu, Jingui Ma, Run Wang, Sidan Zhang, **Boheng Li**, Chenhao Lin, Liming Fang, Lina Wang   
