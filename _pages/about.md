@@ -23,7 +23,7 @@ My name is Boheng Li (李勃衡), I'm currently a Ph.D. student at [College of C
 
 <!-- My name is Boheng Li (李勃衡), I'm currently a junior undergraduate student at the [School of Cyber Science and Engineering (SCSE)](http://cse.whu.edu.cn/index.htm), [Wuhan University (WHU)](https://www.whu.edu.cn/), pursuing a B.E. degree in Information Security. I graduated from [Chengdu Foreign Languages School (CFLS)](http://www.cfls.net.cn/), where I spent 1 year learning Olympic in Informatics (OI). -->
 
-My research interest lies in trustworthy machine learning, with a specific interest on responsible (multimodal) generative models security & privacy. Please check my publication for more details.
+My research interest lies in trustworthy machine learning, with a specific interest on responsible (multimodal) generative models. Please check my publication for more details.
 
 <!-- It's a fortune to be supervised by Prof. [Run Wang](http://wangrun.github.io/) during my study on AI. During my undergraduate study, I also enjoyed a great time conducting research on  Geoinformatics and Remote Sensing, in which I worked closely with my teammates [Jiahao Zhou](https://ddakun.github.io/) and [Sixing Lin](https://defaultlin.cn/). -->
 
