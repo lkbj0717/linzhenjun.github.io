@@ -109,10 +109,6 @@ Dongyu Yao, **Boheng Li**$^\*$
 *ICCV Workshop on Uncertainty Quantification for Computer Vision (UnCV), 2023*
 
 
-<!-- Other 2 papers regarding IP protection of DL have currently been submitted to CCF-A tier conferences. -->
-<!-- ## 🖨️ Preprints & In Submission -->
-
-
 # 🏆 Competition Awards
 - 🏅️ **Gold Reward.** The 8th China International College Students "Internet+" Innovation and Entrepreneurship Competition. *2022.11*
 - **First Prize.** The 2022 China Mobile Creator Marathon "OnePoint" Special Competition on Spatio-temporal Information *2022.11*
@@ -136,29 +132,33 @@ Dongyu Yao, **Boheng Li**$^\*$
 - *2021.06* **Excellent Student Cadre** (Award Rate: 924/59774=1.5%) *Wuhan University*
 
 # 📖 Educations
-- *2020.09 - Now*, Undergraduate, School of Cyber Science and Engineering, Wuhan University, China. Majoring in Information Security. 
+- *2024.08 - Now*, Ph.D. Student, College of Computing and Data Science, Nanyang Technological University, Singapore. 
+- *2020.09 - 2024.06*, Undergraduate, School of Cyber Science and Engineering, Wuhan University, China. Majoring in Information Security. 
 - *2017.09 - 2020.06*, Senior Middle School, Class of Olympic in Informatics, Chengdu Foreign Languages School, China.
 - *2014.09 - 2017.06*, Junior Middle School, Chengdu Foreign Languages School, China.
 
 # 🎡 Activities
 
 ## Academic Services
+- Reviewer, The International Conference on Learning Representations (ICLR), 2025.
+- Reviewer, Conference on Neural Information Processing Systems (NeurIPS), 2024.
+- Reviewer, ACM Multimedia (MM), 2024.
 - Reviewer, ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2023.
 - Reviewer, ACM Multimedia (MM), 2023.
 - Sub-Reviewer, ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD), 2023.
 - Sub-Reviewer, AAAI Conference on Artificial Intelligence (AAAI), 2023.
 
-## Teaching Experiences
+<!-- ## Teaching Experiences
 - Teaching Assistant, Artificial Intelligence (AI), Undergrads, SCSE, WHU, Fall 2022. \[[理论复习课PPT](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/AI2022Review-BohengLi.pdf)\] \[[2022 Fall期末考试试卷PDF](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/AIFinalExam-Fall2022.pdf)\]
-- Teaching Assistant, Big Data Analysis, Undergrads, SCSE, WHU, Fall 2023.
+- Teaching Assistant, Big Data Analysis, Undergrads, SCSE, WHU, Fall 2023. -->
 
-## Invited talks (Selected)
+<!-- ## Invited talks (Selected)
 
 - 计算机设计大赛经验分享, Spring 2023. \[[Slides](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/ComputerDeignCompetition.pdf)\]
 
 - 竞赛经验漫谈, Fall 2022. \[[Slides](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/Competitions-2022Fall.pdf)\]
 
-- 新老生经验交流会, Fall 2021. \[[Slides and Other Materials](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/ExperienceSharing2021Winter.zip)\]
+- 新老生经验交流会, Fall 2021. \[[Slides and Other Materials](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/ExperienceSharing2021Winter.zip)\] -->
 
 <!-- # 💻 Internships
 To be updated. -->
