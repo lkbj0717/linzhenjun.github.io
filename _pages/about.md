@@ -23,7 +23,7 @@ My name is Boheng Li (李勃衡), I'm currently a Ph.D. student at [College of C
 
 <!-- My name is Boheng Li (李勃衡), I'm currently a junior undergraduate student at the [School of Cyber Science and Engineering (SCSE)](http://cse.whu.edu.cn/index.htm), [Wuhan University (WHU)](https://www.whu.edu.cn/), pursuing a B.E. degree in Information Security. I graduated from [Chengdu Foreign Languages School (CFLS)](http://www.cfls.net.cn/), where I spent 1 year learning Olympic in Informatics (OI). -->
 
-My research interest lies in trustworthy machine learning, with a specific interest on responsible (multimodal) generative models security & privacy.
+My research interest lies in trustworthy machine learning, with a specific interest on responsible (multimodal) generative models security & privacy. Please check my publication for more details.
 
 <!-- It's a fortune to be supervised by Prof. [Run Wang](http://wangrun.github.io/) during my study on AI. During my undergraduate study, I also enjoyed a great time conducting research on  Geoinformatics and Remote Sensing, in which I worked closely with my teammates [Jiahao Zhou](https://ddakun.github.io/) and [Sixing Lin](https://defaultlin.cn/). -->
 
@@ -77,15 +77,15 @@ Tingyu Luo, **Boheng Li**, Jiahao Zhou, Qingxiang Meng
 
 <!-- ## 🤖️ AI Security, Privacy & Intellectual Property (IP) Protection -->
 - [Towards Reliable Verification of Unauthorized Data Usage in Personalized Text-to-Image Diffusion Models]()   
-**Boheng Li**, Yanhao Wei, Yankai Fu, Zhenting Wang, Yiming Li, Jie Zhang, Run Wang, Tianwei Zhang
+**Boheng Li**, Yanhao Wei, Yankai Fu, Zhenting Wang, Yiming Li, Jie Zhang, Run Wang, Tianwei Zhang   
 *The IEEE Symposium on Security and Privacy (S&P), 2025*
 
 - [Is Difficulty Calibration All We Need? Towards More Practical Membership Inference Attacks]()   
-Yu He$^\dagger$, **Boheng Li$^\dagger$**, Yao Wang, Mengda Yang, Juan Wang, Hongxin Hu, and Xingyu Zhao
+Yu He$^\dagger$, **Boheng Li$^\dagger$**, Yao Wang, Mengda Yang, Juan Wang, Hongxin Hu, and Xingyu Zhao   
 *The ACM Conference on Computer and Communications Security (CCS), 2024*
 
 - [Purifying Quantization-conditioned Backdoors via Layer-wise Activation Correction with Distribution Approximation]()   
-**Boheng Li$^\dagger$**, Yishuo Cai$^\dagger$, Jisong Cai, Yiming Li, Han Qiu, Run Wang, Tianwei Zhang
+**Boheng Li$^\dagger$**, Yishuo Cai$^\dagger$, Jisong Cai, Yiming Li, Han Qiu, Run Wang, Tianwei Zhang   
 *The International Conference on Machine Learning (ICML), 2024*
 
 - [Nearest Is Not Dearest: Towards Practical Defense against Quantization-conditioned Backdoor Attacks]()   
