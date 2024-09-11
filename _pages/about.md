@@ -80,19 +80,19 @@ Tingyu Luo, **Boheng Li**, Jiahao Zhou, Qingxiang Meng
 **Boheng Li**, Yanhao Wei, Yankai Fu, Zhenting Wang, Yiming Li, Jie Zhang, Run Wang, Tianwei Zhang   
 *The IEEE Symposium on Security and Privacy (S&P), 2025*
 
-- [Is Difficulty Calibration All We Need? Towards More Practical Membership Inference Attacks]()   
+- [Is Difficulty Calibration All We Need? Towards More Practical Membership Inference Attacks](https://arxiv.org/abs/2409.00426)   
 Yu He$^\dagger$, **Boheng Li$^\dagger$**, Yao Wang, Mengda Yang, Juan Wang, Hongxin Hu, and Xingyu Zhao   
 *The ACM Conference on Computer and Communications Security (CCS), 2024*
 
-- [Purifying Quantization-conditioned Backdoors via Layer-wise Activation Correction with Distribution Approximation]()   
+- [Purifying Quantization-conditioned Backdoors via Layer-wise Activation Correction with Distribution Approximation](https://openreview.net/pdf?id=CEfr3h68KU)   
 **Boheng Li$^\dagger$**, Yishuo Cai$^\dagger$, Jisong Cai, Yiming Li, Han Qiu, Run Wang, Tianwei Zhang   
 *The International Conference on Machine Learning (ICML), 2024*
 
-- [Nearest Is Not Dearest: Towards Practical Defense against Quantization-conditioned Backdoor Attacks]()   
+- [Nearest Is Not Dearest: Towards Practical Defense against Quantization-conditioned Backdoor Attacks](https://arxiv.org/abs/2405.12725)   
 **Boheng Li**, Yishuo Cai, Haowei Li, Feng Xue, Zhifeng Li, Yiming Li   
 *The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024*
 
-- [TraceEvader: Making DeepFakes More Untraceable via Evading the Forgery Model Attribution]()   
+- [TraceEvader: Making DeepFakes More Untraceable via Evading the Forgery Model Attribution](https://ojs.aaai.org/index.php/AAAI/article/view/29973)   
 Mengjie Wu, Jingui Ma, Run Wang, Sidan Zhang, **Boheng Li**, Chenhao Lin, Liming Fang, Lina Wang   
 *Annual AAAI Conference on Artificial Intelligence (AAAI), 2024*
 
