@@ -144,9 +144,9 @@ Dongyu Yao, **Boheng Li**$^\*$
 - Reviewer, Conference on Neural Information Processing Systems (NeurIPS), 2024.
 - Reviewer, ACM Multimedia (MM), 2024.
 - Reviewer, ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2023.
-- Reviewer, ACM Multimedia (MM), 2023.
-- Sub-Reviewer, ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD), 2023.
-- Sub-Reviewer, AAAI Conference on Artificial Intelligence (AAAI), 2023.
+<!-- - Reviewer, ACM Multimedia (MM), 2023. -->
+<!-- - Sub-Reviewer, ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD), 2023. -->
+<!-- - Sub-Reviewer, AAAI Conference on Artificial Intelligence (AAAI), 2023. -->
 
 <!-- ## Teaching Experiences
 - Teaching Assistant, Artificial Intelligence (AI), Undergrads, SCSE, WHU, Fall 2022. \[[理论复习课PPT](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/AI2022Review-BohengLi.pdf)\] \[[2022 Fall期末考试试卷PDF](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/AIFinalExam-Fall2022.pdf)\]
