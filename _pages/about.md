@@ -19,7 +19,7 @@ redirect_from:
 
 Hi there 👋👋 !
 
-My name is Boheng Li (李勃衡), I'm currently a Ph.D. student at the [College of Computing and Data Science (CCDS)](https://www.ntu.edu.sg/computing), [Nanyang Technological University](https://www.ntu.edu.sg/), advised by Prof. [Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/index.html). I received my B.E. degree from the [School of Cyber Science and Engineering (SCSE)](http://cse.whu.edu.cn/index.htm), [Wuhan University (WHU)](https://www.whu.edu.cn/), China. I was advised by Prof. [Run Wang](http://wangrun.github.io/) during my undergraduate study.
+My name is Boheng Li (李勃衡), I'm currently a Ph.D. student at the [College of Computing and Data Science (CCDS)](https://www.ntu.edu.sg/computing), [Nanyang Technological University](https://www.ntu.edu.sg/), advised by Prof. [Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/index.html). I received my B.E. degree from the [School of Cyber Science and Engineering (SCSE)](http://cse.whu.edu.cn/index.htm), [Wuhan University (WHU)](https://www.whu.edu.cn/), China, in 2024. I was advised by Prof. [Run Wang](http://wangrun.github.io/) during my undergraduate study.
 
 <!-- My name is Boheng Li (李勃衡), I'm currently a junior undergraduate student at the [School of Cyber Science and Engineering (SCSE)](http://cse.whu.edu.cn/index.htm), [Wuhan University (WHU)](https://www.whu.edu.cn/), pursuing a B.E. degree in Information Security. I graduated from [Chengdu Foreign Languages School (CFLS)](http://www.cfls.net.cn/), where I spent 1 year learning Olympic in Informatics (OI). -->
 
