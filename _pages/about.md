@@ -19,17 +19,17 @@ redirect_from:
 
 Hi there 👋👋 !
 
-My name is Boheng Li (李勃衡), I'm currently a Ph.D. student at [College of Computing and Data Science (CCDS)](https://www.ntu.edu.sg/computing), [Nanyang Technological University](https://www.ntu.edu.sg/), advised by Prof. [Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/index.html). I received my B.E. degree from the [School of Cyber Science and Engineering (SCSE)](http://cse.whu.edu.cn/index.htm), [Wuhan University (WHU)](https://www.whu.edu.cn/), China. I was advised by Prof. [Run Wang](http://wangrun.github.io/) during my undergraduate study.
+My name is Boheng Li (李勃衡), I'm currently a Ph.D. student at the [College of Computing and Data Science (CCDS)](https://www.ntu.edu.sg/computing), [Nanyang Technological University](https://www.ntu.edu.sg/), advised by Prof. [Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/index.html). I received my B.E. degree from the [School of Cyber Science and Engineering (SCSE)](http://cse.whu.edu.cn/index.htm), [Wuhan University (WHU)](https://www.whu.edu.cn/), China. I was advised by Prof. [Run Wang](http://wangrun.github.io/) during my undergraduate study.
 
 <!-- My name is Boheng Li (李勃衡), I'm currently a junior undergraduate student at the [School of Cyber Science and Engineering (SCSE)](http://cse.whu.edu.cn/index.htm), [Wuhan University (WHU)](https://www.whu.edu.cn/), pursuing a B.E. degree in Information Security. I graduated from [Chengdu Foreign Languages School (CFLS)](http://www.cfls.net.cn/), where I spent 1 year learning Olympic in Informatics (OI). -->
 
-My research interest lies in trustworthy machine learning, with a specific interest on responsible (multimodal) generative models. Please check my publication for more details.
+My research interest lies in trustworthy machine learning, with a specific interest in responsible (multimodal) generative models. Please check my publication for more details.
 
 <!-- It's a fortune to be supervised by Prof. [Run Wang](http://wangrun.github.io/) during my study on AI. During my undergraduate study, I also enjoyed a great time conducting research on  Geoinformatics and Remote Sensing, in which I worked closely with my teammates [Jiahao Zhou](https://ddakun.github.io/) and [Sixing Lin](https://defaultlin.cn/). -->
 
 <!-- I have won the First Class Scholarship of WHU 2 times (5% school-wide), the HUANG Zhangren Scholarship (60 candidates per year in WHU), the Huawei Scholarship (54 candidates per year in WHU), the National Scholarship (0.2% national-wide), and was selected the Pacemaker to Merit Student of WHU (60 candidates per year in WHU). I was awarded 🏅️ the **Gold Reward** of [The 8th China International College Students 'Internet+' Innovation and Entrepreneurship Competition](https://cy.ncss.cn/), the highest and most valuable competition award for Chinese college students (national-wide, refer to [this link](https://news.eol.cn/yaowen/202103/t20210322_2087129.shtml)), as the co-founder of the team. -->
 
-🌟🌟 I'm open to any possible discussions or collaborate opportunities. If you're interested in working with me, don't hesitate to drop me an email! 
+🌟🌟 I’m open to any possible discussions or collaboration opportunities. If you’re interested in working with me, don’t hesitate to drop me an email!
 
 <!-- My curriculum vitae can be downloaded [here (in English)](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/Boheng_Li_s_CV.pdf).  -->
 
