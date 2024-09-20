@@ -120,6 +120,8 @@ Dongyu Yao, **Boheng Li**$^\*$
 - **First Place in Second Prize.** The 2018 National Olympic in Informatics, Sichuan Provincial Competition (NOIp'18). *2018.11*
 
 # 🎖 Scholarships and Honors
+- *2024.06* **Outstanding Graduate**, *Wuhan University, China*
+- *2024.06* **Outstanding Bachelor Thesis Award**, *Wuhan University, China*
 - *2023.10* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China* 
 - *2023.02* **Huawei Scholarship** (Award Rate: 54/59774=0.1%) *Wuhan University & Huawei Technologies Co., Ltd.*
 - *2022.10* **Pacemaker to Merit Student** (Award Rate: 60/59774=0.1%) *Wuhan University*
