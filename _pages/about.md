@@ -76,9 +76,14 @@ Tingyu Luo, **Boheng Li**, Jiahao Zhou, Qingxiang Meng
 *The 29th International Conference on Geoinformatics (CPGIS), 2022* -->
 
 <!-- ## 🤖️ AI Security, Privacy & Intellectual Property (IP) Protection -->
+
 - [Towards Reliable Verification of Unauthorized Data Usage in Personalized Text-to-Image Diffusion Models]()   
 **Boheng Li**, Yanhao Wei, Yankai Fu, Zhenting Wang, Yiming Li, Jie Zhang, Run Wang, Tianwei Zhang   
 *The IEEE Symposium on Security and Privacy (S&P), 2025*
+
+- [Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-Syncing DeepFakes]()   
+Weifeng Liu, Tianyi She, Jiawei Liu, **Boheng Li**, Dongyu Yao, Ziyou Liang, Run Wang   
+*Annual Conference on Neural Information Processing Systems (NeurIPS), 2024*
 
 - [Is Difficulty Calibration All We Need? Towards More Practical Membership Inference Attacks](https://arxiv.org/abs/2409.00426)   
 Yu He$^\dagger$, **Boheng Li$^\dagger$**, Yao Wang, Mengda Yang, Juan Wang, Hongxin Hu, and Xingyu Zhao   
