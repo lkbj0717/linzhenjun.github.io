@@ -147,9 +147,10 @@ Dongyu Yao, **Boheng Li**$^\*$
 # 🎡 Activities
 
 ## Academic Services
+- Reviewer, The International Conference on Artificial Intelligence and Statistics (AISTATS), 2025.
 - Reviewer, The International Conference on Learning Representations (ICLR), 2025.
-- Reviewer, Conference on Neural Information Processing Systems (NeurIPS), 2024.
-- Reviewer, ACM Multimedia (MM), 2024.
+- Reviewer, Annual Conference on Neural Information Processing Systems (NeurIPS), 2024.
+- Reviewer, ACM Multimedia Conference (MM), 2024.
 - Reviewer, ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2023.
 
 I have also reviewed paper for KDD, AAAI, IJCAI, ECCV, CVPR, ICML, and TPAMI.
