@@ -19,7 +19,7 @@ redirect_from:
 
 Hi there 👋👋 !
 
-My name is Boheng Li (李勃衡), I'm currently a Ph.D. student at the [College of Computing and Data Science (CCDS)](https://www.ntu.edu.sg/computing), [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore, advised by Prof. [Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/index.html). I received my B.E. degree from the [School of Cyber Science and Engineering (SCSE)](http://cse.whu.edu.cn/index.htm), [Wuhan University (WHU)](https://www.whu.edu.cn/), China, in 2024. I was advised by Prof. [Run Wang](http://wangrun.github.io/) during my undergraduate study and was a research intern in he [State Key Laboratory of Blockchain and Data Security](http://fit.zju.edu.cn/fitcn/2023/0406/c34346a2738118/page.htm), [Zhejiang University](https://www.zju.edu.cn/), China, working with Dr. [Yiming Li](https://liyiming.tech/).
+My name is Boheng Li (李勃衡), I'm currently a Ph.D. student at the [College of Computing and Data Science (CCDS)](https://www.ntu.edu.sg/computing), [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore, advised by Prof. [Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/index.html). I received my B.E. degree from the [School of Cyber Science and Engineering (SCSE)](http://cse.whu.edu.cn/index.htm), [Wuhan University (WHU)](https://www.whu.edu.cn/), China. I was advised by Prof. [Run Wang](http://wangrun.github.io/) during my undergraduate study and was a research intern in he [State Key Laboratory of Blockchain and Data Security](http://fit.zju.edu.cn/fitcn/2023/0406/c34346a2738118/page.htm), [Zhejiang University](https://www.zju.edu.cn/), China, working with Dr. [Yiming Li](https://liyiming.tech/).
 
 <!-- My name is Boheng Li (李勃衡), I'm currently a junior undergraduate student at the [School of Cyber Science and Engineering (SCSE)](http://cse.whu.edu.cn/index.htm), [Wuhan University (WHU)](https://www.whu.edu.cn/), pursuing a B.E. degree in Information Security. I graduated from [Chengdu Foreign Languages School (CFLS)](http://www.cfls.net.cn/), where I spent 1 year learning Olympic in Informatics (OI). -->
 
@@ -114,7 +114,7 @@ Dongyu Yao, **Boheng Li**$^\*$
 *ICCV Workshop on Uncertainty Quantification for Computer Vision (UnCV), 2023*
 
 
-# 🏆 Competition Awards
+<!-- # 🏆 Competition Awards
 - 🏅️ **Gold Reward.** The 8th China International College Students "Internet+" Innovation and Entrepreneurship Competition. *2022.11*
 - **First Prize.** The 2022 China Mobile Creator Marathon "OnePoint" Special Competition on Spatio-temporal Information *2022.11*
 - **First Prize.** The 15th Chinese Collegiate Computing Competition National Finals (4C'2022). *2022.09*
@@ -122,9 +122,9 @@ Dongyu Yao, **Boheng Li**$^\*$
 - **Outstanding Winner Award.** The 2022 National College Student Surveying and Mapping Discipline Innovation and Entrepreneurship Intelligent Competition Development and Design Competition. *2022.08*
 - **Second Prize.** The Lanqiao Cup Competition National Finals. *2022.08*
 - **Outstanding Winner Award.** The 14th Shenzhen Innovation and Entrepreneurship Competition. *2022.07*
-- **First Place in Second Prize.** The 2018 National Olympic in Informatics, Sichuan Provincial Competition (NOIp'18). *2018.11*
+- **First Place in Second Prize.** The 2018 National Olympic in Informatics, Sichuan Provincial Competition (NOIp'18). *2018.11* -->
 
-# 🎖 Scholarships and Honors
+<!-- # 🎖 Scholarships and Honors
 - *2024.06* **Outstanding Graduate**, *Wuhan University, China*
 - *2024.06* **Outstanding Bachelor Thesis Award**, *Wuhan University, China*
 - *2023.10* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China* 
@@ -136,13 +136,13 @@ Dongyu Yao, **Boheng Li**$^\*$
 - *2021.10* **Merit Student**  (Award Rate: 10% school-wide) *Wuhan University* 
 - *2021.10* **HUANG Zhangren Scholarship** (Award Rate: 60/59774=0.1%, 60 candidates per year in WHU) *Wuhan University* 
 - *2021.10* **First Class Scholarship of WHU** (Award Rate: 5% school-wide) *Wuhan University* 
-- *2021.06* **Excellent Student Cadre** (Award Rate: 924/59774=1.5%) *Wuhan University*
+- *2021.06* **Excellent Student Cadre** (Award Rate: 924/59774=1.5%) *Wuhan University* -->
 
-# 📖 Educations
+<!-- # 📖 Educations
 - *2024.08 - Now*, Ph.D. Student, College of Computing and Data Science, Nanyang Technological University, Singapore. 
 - *2020.09 - 2024.06*, Undergraduate, School of Cyber Science and Engineering, Wuhan University, China. Majoring in Information Security. 
 - *2017.09 - 2020.06*, Senior Middle School, Class of Olympic in Informatics, Chengdu Foreign Languages School, China.
-- *2014.09 - 2017.06*, Junior Middle School, Chengdu Foreign Languages School, China.
+- *2014.09 - 2017.06*, Junior Middle School, Chengdu Foreign Languages School, China. -->
 
 # 🎡 Activities
 

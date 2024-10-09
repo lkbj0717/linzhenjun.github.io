@@ -9,14 +9,14 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Competition Awards"
-    url: "/#-competition-awards"
+  # - title: "Competition Awards"
+  #   url: "/#-competition-awards"
 
-  - title: "Scholarships and Honors"
-    url: "/#-scholarships-and-honors"
+  # - title: "Scholarships and Honors"
+  #   url: "/#-scholarships-and-honors"
 
-  - title: "Educations"
-    url: "/#-educations"
+  # - title: "Educations"
+  #   url: "/#-educations"
 
   - title: "Activities"
     url: "/#-activities"
