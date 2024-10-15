@@ -77,11 +77,11 @@ Tingyu Luo, **Boheng Li**, Jiahao Zhou, Qingxiang Meng
 
 <!-- ## 🤖️ AI Security, Privacy & Intellectual Property (IP) Protection -->
 
-- [Towards Reliable Verification of Unauthorized Data Usage in Personalized Text-to-Image Diffusion Models]()   
+- [Towards Reliable Verification of Unauthorized Data Usage in Personalized Text-to-Image Diffusion Models](https://arxiv.org/abs/2410.10437)   
 **Boheng Li**, Yanhao Wei, Yankai Fu, Zhenting Wang, Yiming Li, Jie Zhang, Run Wang, Tianwei Zhang   
 *The IEEE Symposium on Security and Privacy (S&P), 2025*
 
-- [Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-Syncing DeepFakes]()   
+- [Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-Syncing DeepFakes](https://arxiv.org/abs/2401.15668)   
 Weifeng Liu, Tianyi She, Jiawei Liu, **Boheng Li**, Dongyu Yao, Ziyou Liang, Run Wang   
 *Annual Conference on Neural Information Processing Systems (NeurIPS), 2024*
 
