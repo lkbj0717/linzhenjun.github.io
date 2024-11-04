@@ -63,7 +63,7 @@ My research interest lies in trustworthy machine learning, with a specific inter
 - *2022.07*: Our team "AntiE" (Chinese: 安急易) won the Golden Prize in the "Challenge Cup" Innovation and Entrepreneurship Competition (Chinese: “挑战杯”中国大学生创业计划竞赛), Hubei Province Division, and successfully entered the National Competition.
 - *2022.06*: I am awarded as "social activity activist" (Chinese: 社会活动积极分子) by Wuhan University.
 - *2022.06*: Our paper "Optimized Design Method for Satellite Constellation Configuration Based on Real-time Coverage Area Evaluation" is accepted by Geoinformatics 2022. \[[pdf](https://arxiv.org/pdf/2209.09131.pdf)\]
-- *2022.06*: Our paper "Comprehensive Evaluation of Emergency Shelters in Wuhan City Based on GIS" is accepted by Geoinformatics 2022. \[[pdf](https://arxiv.org/pdf/2209.07687.pdf)\]
+- *2022.06*: Our paper "Comprehensive Evaluation of Emergency Shelters in Wuhan City Based on GIS" is accepted by Geoinformatics 2022. \[[pdf](https://arxiv.org/pdf/2209.07687.pdf)\]-->
 
 # 📝 Publications 
 
@@ -153,7 +153,7 @@ Dongyu Yao, **Boheng Li**$^\*$
 - Reviewer, The International Conference on Artificial Intelligence and Statistics (AISTATS), 2025.
 - Reviewer, The International Conference on Learning Representations (ICLR), 2025.
 - Reviewer, Annual Conference on Neural Information Processing Systems (NeurIPS), 2024.
-- Reviewer, ACM Multimedia Conference (MM), 2024.
+- Reviewer, ACM Multimedia Conference (MM), 2024. *(Outstanding Reviewer Award)*
 - Reviewer, ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2023.
 
 I have also reviewed paper for KDD, AAAI, IJCAI, ECCV, CVPR, ICML, and TPAMI.
