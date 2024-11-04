@@ -44,7 +44,7 @@ My research interest lies in trustworthy machine learning, with a specific inter
 <!-- - *2023.10*: Awarded with National Scholarship 2023. -->
 <!-- - *2023.08*: Invited as a reviewer by ACM TOMM. -->
 <!-- - *2023.08*: One paper is accepted by ICCVW UnCV 2023. -->
-<!-- - *2023.07*: One paper is accepted by ACM MM 2023. --> -->
+<!-- - *2023.07*: One paper is accepted by ACM MM 2023. --> 
 <!-- - *2023.07*: One paper is accepted by ICCV 2023. -->
 <!-- - *2023.06*: Invited as a reviewer by ACM MM. -->
 <!-- - *2023.02*: I was awarded the Huawei Scholarship (54 candidates per year in WHU) by Wuhan University & Huawei Technologies Co., Ltd. -->
