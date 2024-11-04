@@ -33,15 +33,18 @@ My research interest lies in trustworthy machine learning, with a specific inter
 
 <!-- My curriculum vitae can be downloaded [here (in English)](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/Boheng_Li_s_CV.pdf).  -->
 
-<!-- # 🔥 News
+# 🔥 News
+- *2024.11*: I received the outstanding reviewer award from ACM MM 2024.
+- *2024.09*: One paper is accepted by S&P 2025.
+- *2024.05*: One paper is accepted by ICML 2024.
 - *2024.02*: One paper is accepted by CVPR 2024.
-- *2024.02*: Our team won the Outstanding Prize of Innova University Student Innovation Achievement Award.
-- *2024.01*: Invited as a reviewer for ACM MM 2024.
-- *2023.12*: One paper is accepted by AAAI 2024.
-- *2023.10*: Awarded with National Scholarship 2023.
-- *2023.08*: Invited as a reviewer by ACM TOMM.
-- *2023.08*: One paper is accepted by ICCVW UnCV 2023.
-- *2023.07*: One paper is accepted by ACM MM 2023. -->
+<!-- - *2024.02*: Our team won the Outstanding Prize of Innova University Student Innovation Achievement Award. -->
+<!-- - *2024.01*: Invited as a reviewer for ACM MM 2024. -->
+<!-- - *2023.12*: One paper is accepted by AAAI 2024. -->
+<!-- - *2023.10*: Awarded with National Scholarship 2023. -->
+<!-- - *2023.08*: Invited as a reviewer by ACM TOMM. -->
+<!-- - *2023.08*: One paper is accepted by ICCVW UnCV 2023. -->
+<!-- - *2023.07*: One paper is accepted by ACM MM 2023. --> -->
 <!-- - *2023.07*: One paper is accepted by ICCV 2023. -->
 <!-- - *2023.06*: Invited as a reviewer by ACM MM. -->
 <!-- - *2023.02*: I was awarded the Huawei Scholarship (54 candidates per year in WHU) by Wuhan University & Huawei Technologies Co., Ltd. -->
@@ -60,7 +63,7 @@ My research interest lies in trustworthy machine learning, with a specific inter
 - *2022.07*: Our team "AntiE" (Chinese: 安急易) won the Golden Prize in the "Challenge Cup" Innovation and Entrepreneurship Competition (Chinese: “挑战杯”中国大学生创业计划竞赛), Hubei Province Division, and successfully entered the National Competition.
 - *2022.06*: I am awarded as "social activity activist" (Chinese: 社会活动积极分子) by Wuhan University.
 - *2022.06*: Our paper "Optimized Design Method for Satellite Constellation Configuration Based on Real-time Coverage Area Evaluation" is accepted by Geoinformatics 2022. \[[pdf](https://arxiv.org/pdf/2209.09131.pdf)\]
-- *2022.06*: Our paper "Comprehensive Evaluation of Emergency Shelters in Wuhan City Based on GIS" is accepted by Geoinformatics 2022. \[[pdf](https://arxiv.org/pdf/2209.07687.pdf)\] -->
+- *2022.06*: Our paper "Comprehensive Evaluation of Emergency Shelters in Wuhan City Based on GIS" is accepted by Geoinformatics 2022. \[[pdf](https://arxiv.org/pdf/2209.07687.pdf)\]
 
 # 📝 Publications 
 
