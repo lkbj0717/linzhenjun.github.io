@@ -28,6 +28,8 @@ My research interests focus on trustworthy machine learning, with a particular e
 <!-- My curriculum vitae can be downloaded [here (in English)](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/Boheng_Li_s_CV.pdf).  -->
 
 # 🔥 News
+- *2024.11*: I will serve as the Artifact Evaluation Committee (AEC) for USENIX Security 2025.
+- *2024.11*: I am invited as a reviewer for the IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
 - *2024.11*: I received the outstanding reviewer award from ACM MM 2024.
 - *2024.09*: One paper is accepted by S&P 2025.
 - *2024.05*: One paper is accepted by ICML 2024.
@@ -144,6 +146,8 @@ Dongyu Yao, **Boheng Li**$^\*$
 # 🎡 Activities
 
 ## Academic Services
+- Artifact Evaluation Committee, The USENIX Security Symposium (USENIX Security), 2025.
+- Reviewer, The IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025.
 - Reviewer, The International Conference on Artificial Intelligence and Statistics (AISTATS), 2025.
 - Reviewer, The International Conference on Learning Representations (ICLR), 2025.
 - Reviewer, Annual Conference on Neural Information Processing Systems (NeurIPS), 2024.
