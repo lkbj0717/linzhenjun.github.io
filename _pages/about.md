@@ -28,6 +28,8 @@ My research interests focus on trustworthy machine learning, with a particular e
 <!-- My curriculum vitae can be downloaded [here (in English)](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/Boheng_Li_s_CV.pdf).  -->
 
 # 🔥 News
+
+- *2024.12*: One paper is accepted by AAAI 2025.
 - *2024.11*: I will serve as the Artifact Evaluation Committee (AEC) for USENIX Security 2025.
 - *2024.11*: I am invited as a reviewer for the IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
 - *2024.11*: I received the outstanding reviewer award from ACM MM 2024.
@@ -75,6 +77,9 @@ Tingyu Luo, **Boheng Li**, Jiahao Zhou, Qingxiang Meng
 *The 29th International Conference on Geoinformatics (CPGIS), 2022* -->
 
 <!-- ## 🤖️ AI Security, Privacy & Intellectual Property (IP) Protection -->
+- [Transfer Learning of Real Image Features with Soft Contrastive Loss for Fake Image Detection]()   
+Ziyou Liang, Weifeng Liu, Run Wang, Mengjie Wu, **Boheng Li**, Yuyang zhang, Lina Wang, Xinyi Yang   
+*Annual AAAI Conference on Artificial Intelligence (AAAI), 2025*
 
 - [Towards Reliable Verification of Unauthorized Data Usage in Personalized Text-to-Image Diffusion Models](https://arxiv.org/abs/2410.10437)   
 **Boheng Li**, Yanhao Wei, Yankai Fu, Zhenting Wang, Yiming Li, Jie Zhang, Run Wang, Tianwei Zhang   
