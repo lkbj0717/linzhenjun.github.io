@@ -78,7 +78,7 @@ Tingyu Luo, **Boheng Li**, Jiahao Zhou, Qingxiang Meng
 
 <!-- ## 🤖️ AI Security, Privacy & Intellectual Property (IP) Protection -->
 - [Transfer Learning of Real Image Features with Soft Contrastive Loss for Fake Image Detection]()   
-Ziyou Liang, Weifeng Liu, Run Wang, Mengjie Wu, **Boheng Li**, Yuyang zhang, Lina Wang, Xinyi Yang   
+Ziyou Liang, Weifeng Liu, Run Wang, Mengjie Wu, **Boheng Li**, Yuyang Zhang, Lina Wang, Xinyi Yang   
 *Annual AAAI Conference on Artificial Intelligence (AAAI), 2025*
 
 - [Towards Reliable Verification of Unauthorized Data Usage in Personalized Text-to-Image Diffusion Models](https://arxiv.org/abs/2410.10437)   
