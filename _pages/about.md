@@ -29,6 +29,7 @@ My research interests focus on trustworthy machine learning, with a particular e
 
 # 🔥 News
 
+- *2025.01*: I am invited as a reviewer for IEEE TIFS.
 - *2024.12*: I am invited as a reviewer for ICML 2025.
 - *2024.12*: One paper is accepted by AAAI 2025.
 - *2024.11*: I will serve as the Artifact Evaluation Committee (AEC) for USENIX Security 2025.
@@ -152,6 +153,7 @@ Dongyu Yao, **Boheng Li**$^\*$
 # 🎡 Activities
 
 ## Academic Services
+- Reviewer, The IEEE Transactions on Information Forensics & Security, 2025.
 - Reviewer, The International Conference on Machine Learning (ICML), 2025.
 - Artifact Evaluation Committee, The USENIX Security Symposium (USENIX Security), 2025.
 - Reviewer, The IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025.
