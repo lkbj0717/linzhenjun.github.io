@@ -29,6 +29,7 @@ My research interests focus on trustworthy machine learning, with a particular e
 
 # 🔥 News
 
+- *2025.01*: One paper is accepted by USENIX Security 2025.
 - *2025.01*: I am invited as a reviewer for IEEE TIFS.
 - *2024.12*: I am invited as a reviewer for ICML 2025.
 - *2024.12*: One paper is accepted by AAAI 2025.
@@ -77,6 +78,9 @@ Jiahao Zhou, **Boheng Li**, Qingxiang Meng
 - [Comprehensive Evaluation of Emergency Shelters in Wuhan City Based on GIS](https://ieeexplore.ieee.org/document/9963810)   
 Tingyu Luo, **Boheng Li**, Jiahao Zhou, Qingxiang Meng   
 *The 29th International Conference on Geoinformatics (CPGIS), 2022* -->
+- [Towards Label-Only Membership Inference Attack against Pre-trained Large Language Models]()   
+Yu He, **Boheng Li**, Liu Liu, Zhongjie Ba, Wei Dong, Yiming Li, Zhan Qin, Kui Ren, Chun Chen   
+*The 34th USENIX Security Symposium (USENIX Security), 2025*
 
 <!-- ## 🤖️ AI Security, Privacy & Intellectual Property (IP) Protection -->
 - [Transfer Learning of Real Image Features with Soft Contrastive Loss for Fake Image Detection]()   
