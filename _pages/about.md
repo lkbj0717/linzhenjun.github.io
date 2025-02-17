@@ -29,6 +29,8 @@ My research interests focus on trustworthy machine learning, with a particular e
 
 # 🔥 News
 
+- *2025.02*: I am invited as a reviewer for NeurIPS 2025.
+- *2025.02*: I am invited as a reviewer for ACM MM 2025.
 - *2025.01*: One paper is accepted by USENIX Security 2025.
 - *2025.01*: I am invited as a reviewer for IEEE TIFS.
 - *2024.12*: I am invited as a reviewer for ICML 2025.
@@ -36,8 +38,8 @@ My research interests focus on trustworthy machine learning, with a particular e
 - *2024.11*: I will serve as the Artifact Evaluation Committee (AEC) for USENIX Security 2025.
 - *2024.11*: I am invited as a reviewer for the IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
 - *2024.11*: I received the outstanding reviewer award from ACM MM 2024.
-- *2024.09*: One paper is accepted by S&P 2025.
-- *2024.05*: One paper is accepted by ICML 2024.
+<!-- - *2024.09*: One paper is accepted by S&P 2025. -->
+<!-- - *2024.05*: One paper is accepted by ICML 2024. -->
 <!-- - *2024.02*: One paper is accepted by CVPR 2024. -->
 <!-- - *2024.02*: Our team won the Outstanding Prize of Innova University Student Innovation Achievement Award. -->
 <!-- - *2024.01*: Invited as a reviewer for ACM MM 2024. -->
@@ -163,8 +165,8 @@ Dongyu Yao, **Boheng Li**$^\*$
 - Reviewer, The IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025.
 - Reviewer, The International Conference on Artificial Intelligence and Statistics (AISTATS), 2025.
 - Reviewer, The International Conference on Learning Representations (ICLR), 2025.
-- Reviewer, Annual Conference on Neural Information Processing Systems (NeurIPS), 2024.
-- Reviewer, ACM Multimedia Conference (MM), 2024. *[(Outstanding Reviewer Award)](https://2024.acmmm.org/outstanding-ac-reviewer)*
+- Reviewer, Annual Conference on Neural Information Processing Systems (NeurIPS), 2024, 2025.
+- Reviewer, ACM Multimedia Conference (MM), 2024, 2025. *[(Outstanding Reviewer Award)](https://2024.acmmm.org/outstanding-ac-reviewer)*
 - Reviewer, ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2023.
 
 I have also reviewed paper for KDD, AAAI, IJCAI, ECCV, CVPR, ICML, and TPAMI.
